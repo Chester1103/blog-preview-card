@@ -47,7 +47,7 @@ I learned that I need to add an accessible name or aria-label to the learning bu
 ```
 
 ### Continued development
-
+In future projects, I want to continue improving my HTML for accessibility and readability, CSS layout skills, exploring more responsive design techniques, and practicing clean component-based structuring.
 
 ## Author
 - Frontend Mentor - [@Chester1103](https://www.frontendmentor.io/profile/Chester1103)
